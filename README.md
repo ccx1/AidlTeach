@@ -1,5 +1,7 @@
 ### aidl例子
 
+[Android-aidl初窥](https://blog.csdn.net/ci250454344/article/details/86492005)
+
 核心主要是
 
     <service
